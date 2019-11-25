@@ -1,0 +1,11 @@
+.tourlist {
+  width: 80vw;
+  margin: 0 auto;
+  padding: 1rem 0;
+}
+
+span {
+  margin: 0.5rem;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
